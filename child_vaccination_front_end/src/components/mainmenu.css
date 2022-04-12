@@ -1,0 +1,106 @@
+
+.container-fluid
+{
+    margin-left: 30px ;
+}
+.nav-items
+{
+  
+    top: 55%;
+    left: 45%;
+  
+padding: 7px 20px;
+
+color: rgb(202, 207, 130);
+text-decoration: none;
+transition: 0.6s ease;
+
+    
+}
+.loginstyle{
+    margin-right: 30%;
+    margin-top: 30px;
+    margin-left: 30%;
+    width: 400px;
+    border: transparent ;
+  border-radius: 10px;
+  padding: 25px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.b{
+
+    color: white;
+    font-size: 18px;
+  }
+
+.lb
+{
+    color: lemonchiffon;
+}
+
+.nav-items:hover{
+    background-color: rgb(190, 199, 110);
+color: #fff;
+}
+
+.header
+{
+    color :wheat;
+    margin-left: 41%;
+    margin-top: 25px;
+
+}
+
+.form-control{
+    height: 35px;
+    margin-top: 10px;
+}
+.hospital{
+    margin-left: 30%; 
+   margin-right: 30%;
+   margin-top: -10px;
+   width: 500px;
+   border: transparent ;
+ border-radius: 10px;
+ padding: 25px;
+ box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+
+.parentform{
+    margin-right: 30%;
+    margin-top: -10px;
+    margin-left: 30%;
+    width: 500px;
+    border: transparent ;
+  border-radius: 10px;
+  padding: 25px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+
+}
+.header1
+{
+    color :wheat;
+    margin-left: 37%;
+    margin-top: 25px;
+}
+.header2
+{
+    color :wheat;
+    margin-left: 35%;
+    margin-top: 25px;
+   
+}
+
+
+
+.nav-link{
+    color: black;
+    font-size: 3vh;
+}
+
+
+th, td {
+    padding: 12px;
+}
